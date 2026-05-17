@@ -22,3 +22,9 @@ t = [1,2,3]
 s = {1,2,3,3}
 
 print(s)
+print(x)
+print(l[0])
+print(m["course"])
+print(t[2])
+
+print("Value in Tuple - " + t[2])
