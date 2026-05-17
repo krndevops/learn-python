@@ -40,7 +40,7 @@ print(fruits)
 
 
 print(m)
-course["fee"] = 100
+m["fee"] = 100
 print(m)
 
 
