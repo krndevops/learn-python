@@ -17,3 +17,11 @@ print(enumerate(fruits))
 
 for index, fruit in enumerate(fruits):
     print(f"Index - {index} , Fruit name is - {fruit}")
+
+fruits = ["apple", "banana", "orange"]
+quantity = [ 10, 20, 10]
+
+for fruit, quant in zip(fruits, quantity):
+    print(f"Fruit name is - {fruit} , quantity is - {quant}")
+
+    
