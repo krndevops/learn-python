@@ -31,4 +31,7 @@ print("Value in Tuple - " + str(t[2]) )
 
 print(f"Value in Tuple - {t[2]}")
 
+print (f"course name - {m['course']}")
+
+
 
