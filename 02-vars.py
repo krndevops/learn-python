@@ -27,4 +27,8 @@ print(l[0])
 print(m["course"])
 print(t[2])
 
-print("Value in Tuple - " + t[2])
+print("Value in Tuple - " + str(t[2]) )
+
+print(f"Value in Tuple - + {t[2]}")
+
+
